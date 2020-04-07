@@ -1,4 +1,7 @@
 from tkinter import *
+
+
+
 F = Frame(borderwidth=2, relief = "ridge")
 
 F.master.columnconfigure(0, weight = 1)
